@@ -1,0 +1,9 @@
+[
+    {   
+       "url":"https://www.pepcoding.com/resources/placement-program---bpit/dynamic-programming-and-greedy",
+        "module":"Dynamic Programming",
+        "lecture":"Dynamic programming and Greedy",
+        "problem":"Fibonnaci-dp",
+        "path":"./codes/code1/main.java"
+    }
+]

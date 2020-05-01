@@ -1,0 +1,1 @@
+node selenium "credential.json" "metadata.json"
